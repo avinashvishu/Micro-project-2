@@ -58,7 +58,7 @@ html {
 }
 
 .search-bar {
-    background-image: url(/assets/searchglass.png);
+    background-image: url(./assets/searchglass.png);
     background-repeat: no-repeat;
     color: #9F9F9F;
     background-size: 16px;
