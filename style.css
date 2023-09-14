@@ -305,7 +305,7 @@ html {
     }
 }
 
-@media screen and (max-width:1599px) {
+@media screen and (max-width:1060px) {
     html {
         font-size: 7px;
     }
@@ -318,5 +318,8 @@ html {
     .content {
         height: 33rem;
         width: 70rem;
+    }
+    .help {
+        right: 4rem;
     }
 }
