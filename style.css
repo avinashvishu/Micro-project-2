@@ -254,11 +254,13 @@ html {
 /* social */
 
 .social {
+    padding-top: 5rem;
     display: flex;
+    float: right;
     flex-direction: column;
     gap: 1px;
-    position: fixed;
-    top: 19rem;
+    position: sticky;
+    top: 5rem;
     right: 0;
 }
 
